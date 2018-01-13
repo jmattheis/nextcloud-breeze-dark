@@ -1,4 +1,13 @@
+# Nextcloud Breeze Dark Theme (MODIFIED)
+
+This is a modified version of the theme, because I didn't liked the dark colors that were used.
+
+![screenshot of theme (modified)](screenshot-migrated.png)
+
+------
+
 # Nextcloud Breeze Dark Theme
+
 This is a Breeze Dark Theme for [Nextcloud](https://nextcloud.com) based on the Breeze Dark theme made by the KDE Project.
 
 The icons are from the default Nextcloud theme and the individual apps, with the colors changed to better fit the theme.
